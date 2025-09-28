@@ -1,0 +1,35 @@
+{
+    "dadosUsuario": {
+        "nomeUsuarioValidos": "Alex",
+        "senhaUsuarioValidos": "1234",
+        "nomeUsuarioInvalidos": "Alex",
+        "senhaUsuarioINvalidos": "1234"
+    },
+
+    "dadosCadatro": {
+        "primeiroNome":"Alex",
+        "ultimoNome":"Silva",
+        "nickName":"grmin08",
+        "senha":"1234589"
+    },
+
+    "testeErroDadosCdastrais": {
+        "erroPrimeiroNome":"Alex",
+        "erroUltimoNome":"Silva",
+        "erroNickName":"grmin11",
+        "erroSenha":""
+    },
+
+
+    "dadosBancarios": {
+        "nomeBanco": "12345",
+        "numeroRoteamento":"123456789",
+        "numeroConta": "123456789"
+    },    
+    
+    "tranferencia": {
+        "nomeParaTransferir": "Alex Silva",
+        "montante": "1000",
+        "nota": "Dinheiro para pagar contas"
+    }
+}
